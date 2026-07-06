@@ -1,0 +1,21 @@
+app_name: Stirred Not Shaken
+category: Health & fitness
+tagline: Like the double-O would have it.
+description: The name's Bond - James Bond.
+pricing: Free
+repo_url: https://github.com/sisou/stirred-not-shaken
+demo_url: https://stirred-not-shaken.github.app
+video_url: https://www.youtube.com/watch?v=Go75btfNyew
+contact_email: soeren@nimiq.com
+team_name: null
+team_members: null
+x_account: null
+builder_story: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+github_login: sisou
+submitted_at: 2026-07-06T23:06:00.095Z
